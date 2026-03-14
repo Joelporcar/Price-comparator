@@ -1,4 +1,4 @@
-# 🛒 Price Comparator
+# Price Comparator
 
 A Python web scraper that searches for a product across **Amazon**, **MediaMarkt** and **El Corte Inglés** and returns the best price.
 
