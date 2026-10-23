@@ -48,3 +48,8 @@ Otras opciones disponibles:
 
 - [Selenium](https://selenium-python.readthedocs.io/) — browser automation
 - ChromeDriver — headless Chrome control
+
+
+## Authors
+
+Joel Porcar Sales, Maria Porta & Robert Torres
